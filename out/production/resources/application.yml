@@ -7,8 +7,9 @@ spring:
 
   datasource:
     platform: mysql
-    url: jdbc:mysql://database-1.ccmug97ib6yr.ap-northeast-1.rds.amazonaws.com/UMC?autoReconnect=true
+    url: jdbc:mysql://database-1.czcfkbybianh.ap-northeast-2.rds.amazonaws.com/UMC?autoReconnect=true
     username: admin
     password: dhtndus1
     driver-class-name: com.mysql.cj.jdbc.Driver # mysql 8버전
+
     # driver-class-name: com.mysql.jdbc.Driver # mysql 5버전
